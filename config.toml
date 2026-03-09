@@ -1,0 +1,8 @@
+[core]
+runtime = "local"
+workspace_base = "/workspaces/test-openhand"
+
+[llm]
+model = "openrouter/nvidia/nemotron-3-nano-30b-a3b"
+api_key = "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"
+base_url = "https://openrouter.ai/api/v1"
